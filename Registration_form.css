@@ -1,0 +1,50 @@
+body
+
+#head1{
+color:rgb(242, 40, 40);
+}
+label{
+color:rgb(19, 19, 19);
+font-size: larger;
+}
+input,option{
+color:red;
+background-color:lightgrey;
+
+}
+.show{
+margin-top:100px;
+text-align:center;
+background:#333;
+color:red;
+}
+#show th{
+padding:13px;
+color:rgb(15, 15, 15);
+background:bisque;
+font-size: x-large;
+}
+#show td{
+padding:13px;
+color:rgb(18, 18, 18);
+background:rgb(245, 236, 238) ;
+}
+#btn td input{
+width:100%;
+padding:15px;
+background-color: rgba(255, 34, 34, 0.494);
+color:rgba(15, 14, 14, 0.757);
+font-size: xx-large;
+font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+select
+{
+color:blue;
+background-color:lightgrey;
+}
+textarea
+{
+color:green;
+background-color:lightgrey;
+
+} 
